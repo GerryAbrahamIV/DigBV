@@ -1,0 +1,102 @@
+@charset "utf-8";
+/* CSS Document */
+<style type="text/css">
+dummy {
+}
+
+#Logo {
+	position: relative;
+	width: 10%;
+	height: auto;
+	z-index: 1;
+	left: 0px;
+	top: -20px;
+	border: 5px outset #0FF;
+	border-radius: 1em;
+	float: left;
+	margin: 1%;
+	padding: 0px;
+	clear: none;
+}
+.NavigationBar {
+	text-align: center;
+	color: #DDFBFF;
+	font-weight: bold;
+	position: relative;
+	width: 85%;
+	float: none;
+	border: thin dotted #10B7C7;
+	left: 0px;
+	right: 0px;
+	clear: right;
+	background-color: #DFEBFD;
+	height: auto;
+}
+#Banner {
+	position: relative;
+	top: 10px;
+	border: medium inset #70D5DD;
+	width: 80%;
+	height: 3%;
+	clear: right;
+}
+body {
+	background-color: #0FF;
+	background-image: url(file:///C|/Users/Win7/Documents/JCU/CP1406 (Interactive media and web design)/Diggers-ClientContent-Plan/DiggersBeachVolleyball/Untitled-1.jpg);
+	background-image: url(../Images/bg2.jpg);
+}
+#BGImg {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	visibility: visible;
+	list-style-position: inside;
+}
+#mainbody {
+	position: relative;
+	width: 73%;
+	height: 85%;
+	z-index: 2;
+	left: 0px;
+	top: -30px;
+	background-color: #99E1E6;
+	border: 10px outset #42B9E6;
+	float: left;
+	clear: left;
+	padding-top: 0px;
+	padding-right: 15px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	margin-top: 15px;
+	margin-bottom: 0px;
+	margin-left: 15px;
+	visibility: visible;
+	bottom: 0px;
+}
+#foot {
+	font-size: 9px;
+	text-align: center;
+	color: #006;
+	width: 100%;
+	bottom: 0px;
+	padding-top: 50px;
+	position: absolute;
+}
+#socmed {
+	position: relative;
+	width: 15%;
+	height: 85%;
+	z-index: 2;
+	left: 0px;
+	top: -10px;
+	float: right;
+	background-color: #F7B375;
+	border: 10px inset #75D6DD;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+</style>
